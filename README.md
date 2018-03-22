@@ -4,7 +4,7 @@ SPPT archive
 
 sppt is an [R](https://www.r-project.org) package that implements several Spatial Point Pattern Tests.
 
-This repository is an archive of earlier `sppt` builds. The most recent version of `sppt` is always found on <https://github.com/wsteenbeek/sppt>.
+This repository is an archive of `sppt` builds. The most recent version of `sppt` is always found on <https://github.com/wsteenbeek/sppt>.
 
 License
 -------
